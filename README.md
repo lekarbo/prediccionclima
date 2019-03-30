@@ -1,4 +1,4 @@
-# para correr el script de prediccion de clima.
+# para correr el script de prediccion de clima...
 
 #en su respectiva terminal insertar el comando:
 
